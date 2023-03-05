@@ -28,8 +28,8 @@ while( count < 10)
     int what = new Random().Next(0, 3);
     if(what == 0)
     {
-            x = (x + xa) /2;
-            y - (y + ya) /2;
+        x = (x + xa) /2;
+        y = (y + ya) /2;
     }
 
     if (what == 1)
