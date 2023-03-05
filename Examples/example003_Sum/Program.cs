@@ -1,4 +1,5 @@
 ﻿int numberA = 31;
 int nubmerB = 5;
-Console.WriteLine(numberA + nubmerB);
+int result = numberA + nubmerB;
+Console.WriteLine(result);
 
