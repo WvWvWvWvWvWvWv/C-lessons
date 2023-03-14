@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/bin/Debug/net7.0/example008_introMethod
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/bin/Debug/net7.0/example008_introMethod.deps.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/bin/Debug/net7.0/example008_introMethod.runtimeconfig.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/bin/Debug/net7.0/example008_introMethod.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/bin/Debug/net7.0/example008_introMethod.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/example008_introMethod.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/example008_introMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/example008_introMethod.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/example008_introMethod.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/example008_introMethod.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/example008_introMethod.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/refint/example008_introMethod.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/example008_introMethod.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/example008_introMethod.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example008_introMethod/obj/Debug/net7.0/ref/example008_introMethod.dll

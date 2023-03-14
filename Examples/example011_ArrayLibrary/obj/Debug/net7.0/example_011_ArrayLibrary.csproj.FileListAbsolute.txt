@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/example_011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/example_011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/example_011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/example_011_ArrayLibrary.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/example_011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/bin/Debug/net7.0/example_011_ArrayLibrary
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/bin/Debug/net7.0/example_011_ArrayLibrary.deps.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/bin/Debug/net7.0/example_011_ArrayLibrary.runtimeconfig.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/bin/Debug/net7.0/example_011_ArrayLibrary.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/bin/Debug/net7.0/example_011_ArrayLibrary.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/example_011_ArrayLibrary.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/refint/example_011_ArrayLibrary.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/example_011_ArrayLibrary.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/example_011_ArrayLibrary.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example011_ArrayLibrary/obj/Debug/net7.0/ref/example_011_ArrayLibrary.dll
