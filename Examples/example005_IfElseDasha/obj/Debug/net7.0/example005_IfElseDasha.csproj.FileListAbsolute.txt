@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/bin/Debug/net7.0/example005_IfElseDasha
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/bin/Debug/net7.0/example005_IfElseDasha.deps.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/bin/Debug/net7.0/example005_IfElseDasha.runtimeconfig.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/bin/Debug/net7.0/example005_IfElseDasha.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/bin/Debug/net7.0/example005_IfElseDasha.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/example005_IfElseDasha.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/example005_IfElseDasha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/example005_IfElseDasha.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/example005_IfElseDasha.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/example005_IfElseDasha.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/example005_IfElseDasha.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/refint/example005_IfElseDasha.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/example005_IfElseDasha.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/example005_IfElseDasha.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example005_IfElseDasha/obj/Debug/net7.0/ref/example005_IfElseDasha.dll
