@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/example012_Methods.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/example012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/example012_Methods.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/example012_Methods.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/example012_Methods.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/bin/Debug/net7.0/example012_Methods
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/bin/Debug/net7.0/example012_Methods.deps.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/bin/Debug/net7.0/example012_Methods.runtimeconfig.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/bin/Debug/net7.0/example012_Methods.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/bin/Debug/net7.0/example012_Methods.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/example012_Methods.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/refint/example012_Methods.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/example012_Methods.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/example012_Methods.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example012_Methods/obj/Debug/net7.0/ref/example012_Methods.dll
