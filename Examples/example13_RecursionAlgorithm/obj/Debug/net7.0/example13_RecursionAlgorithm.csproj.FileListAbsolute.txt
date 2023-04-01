@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/example13_RecursionAlgorithm.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/example13_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/example13_RecursionAlgorithm.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/example13_RecursionAlgorithm.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/example13_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/bin/Debug/net7.0/example13_RecursionAlgorithm
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/bin/Debug/net7.0/example13_RecursionAlgorithm.deps.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/bin/Debug/net7.0/example13_RecursionAlgorithm.runtimeconfig.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/bin/Debug/net7.0/example13_RecursionAlgorithm.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/bin/Debug/net7.0/example13_RecursionAlgorithm.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/example13_RecursionAlgorithm.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/refint/example13_RecursionAlgorithm.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/example13_RecursionAlgorithm.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/example13_RecursionAlgorithm.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/example13_RecursionAlgorithm/obj/Debug/net7.0/ref/example13_RecursionAlgorithm.dll
