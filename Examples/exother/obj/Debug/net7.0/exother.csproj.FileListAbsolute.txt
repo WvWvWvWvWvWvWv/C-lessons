@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/bin/Debug/net7.0/exother
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/bin/Debug/net7.0/exother.deps.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/bin/Debug/net7.0/exother.runtimeconfig.json
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/bin/Debug/net7.0/exother.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/bin/Debug/net7.0/exother.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/exother.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/exother.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/exother.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/exother.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/exother.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/exother.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/refint/exother.dll
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/exother.pdb
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/exother.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/C-lessons/Examples/exother/obj/Debug/net7.0/ref/exother.dll
